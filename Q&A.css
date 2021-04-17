@@ -398,6 +398,9 @@ main a {
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
   }
+  nav {
+    overflow-x: scroll;
+  }
   #ul_nav li :nth-last-child() {
     padding-right: 0;
   }
